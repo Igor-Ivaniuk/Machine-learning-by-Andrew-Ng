@@ -1,1 +1,1 @@
-# Machine-learning-by-Andrew-Ng
+# Machine learning course by Andrew Ng
